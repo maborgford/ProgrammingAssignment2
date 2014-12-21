@@ -11,6 +11,8 @@
 ##              the initial computation, all following outputs shall retrieve the
 ##              inverse matrix from the cache.
 
+## Note: Both the below functions have been modeled based on the example provided
+##       within the Assignment by Roger D. Peng.
 ## ------------------------------------------------------------------------------
 
 ## The 'makeCacheMatrix' function creates a matrix object, as defined by  
